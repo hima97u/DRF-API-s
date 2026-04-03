@@ -1,0 +1,7 @@
+asgiref==3.11.1
+Django==6.0.3
+django-jazzmin==3.0.4
+django-restframework==0.0.1
+djangorestframework==3.17.1
+sqlparse==0.5.5
+tzdata==2025.3
