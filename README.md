@@ -8,7 +8,7 @@ This repo demonstrates CRUD APIs using Django REST Framework.
 Apps
 
 - Student API → FBV</br>
-- Employee API → CBV (I'll update soon)
+- Employee API → CBV 
 
 Setup
 
